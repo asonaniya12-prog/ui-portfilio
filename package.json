@@ -1,0 +1,19 @@
+{
+  "name": "ui-portfilio",
+  "version": "1.0.0",
+  "description": "My portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asonaniya12-prog/ui-portfilio.git"
+  },
+  "author": "Ashish Sonaniya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asonaniya12-prog/ui-portfilio/issues"
+  },
+  "homepage": "https://github.com/asonaniya12-prog/ui-portfilio#readme"
+}
